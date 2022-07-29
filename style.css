@@ -22,3 +22,13 @@ a {
 section {
   padding-top: 5rem;
 }
+
+.btn {
+  background-color: #051622;
+  color: #1ba098;
+}
+
+.btn-Loading {
+  background-color: #051622;
+  color: #1ba098;
+}
